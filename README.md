@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/dreamdesignhall/ddhdev/blob/main/name.svg" alt="ddhdev" />
+  <img src="https://github.com/Eagle-Skiller/Eagle-Skiller/new/main" alt="eagle-skiller" />
 </h1>
 
 <h1 align="center">
